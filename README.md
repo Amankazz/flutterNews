@@ -36,7 +36,7 @@
 
 ##### Clone the repository
 ```bash
-git clone https://github.com/Amankazz/Scrizzel-Top50.git
+git clone https://github.com/Amankazz/flutterNews.git
 ```
 
 
